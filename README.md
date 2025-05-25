@@ -22,5 +22,5 @@ El repositorio está organizado en secciones, cada una de las cuales corresponde
 
 Cada sección del repositorio contiene los siguientes archivos:
 
-**Archivos `.py`**: Estos archivos contienen el código Python que se utiliza en las lecciones del curso.
+**Archivos `.py`**: Estos archivos contienen código Python
 
